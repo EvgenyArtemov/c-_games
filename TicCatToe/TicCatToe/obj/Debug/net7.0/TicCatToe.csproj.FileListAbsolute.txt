@@ -1,0 +1,15 @@
+/Users/diez/Documents/gitHub/C#_games/TicCatToe/TicCatToe/bin/Debug/net7.0/TicCatToe
+/Users/diez/Documents/gitHub/C#_games/TicCatToe/TicCatToe/bin/Debug/net7.0/TicCatToe.deps.json
+/Users/diez/Documents/gitHub/C#_games/TicCatToe/TicCatToe/bin/Debug/net7.0/TicCatToe.runtimeconfig.json
+/Users/diez/Documents/gitHub/C#_games/TicCatToe/TicCatToe/bin/Debug/net7.0/TicCatToe.dll
+/Users/diez/Documents/gitHub/C#_games/TicCatToe/TicCatToe/bin/Debug/net7.0/TicCatToe.pdb
+/Users/diez/Documents/gitHub/C#_games/TicCatToe/TicCatToe/obj/Debug/net7.0/TicCatToe.csproj.AssemblyReference.cache
+/Users/diez/Documents/gitHub/C#_games/TicCatToe/TicCatToe/obj/Debug/net7.0/TicCatToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diez/Documents/gitHub/C#_games/TicCatToe/TicCatToe/obj/Debug/net7.0/TicCatToe.AssemblyInfoInputs.cache
+/Users/diez/Documents/gitHub/C#_games/TicCatToe/TicCatToe/obj/Debug/net7.0/TicCatToe.AssemblyInfo.cs
+/Users/diez/Documents/gitHub/C#_games/TicCatToe/TicCatToe/obj/Debug/net7.0/TicCatToe.csproj.CoreCompileInputs.cache
+/Users/diez/Documents/gitHub/C#_games/TicCatToe/TicCatToe/obj/Debug/net7.0/TicCatToe.dll
+/Users/diez/Documents/gitHub/C#_games/TicCatToe/TicCatToe/obj/Debug/net7.0/refint/TicCatToe.dll
+/Users/diez/Documents/gitHub/C#_games/TicCatToe/TicCatToe/obj/Debug/net7.0/TicCatToe.pdb
+/Users/diez/Documents/gitHub/C#_games/TicCatToe/TicCatToe/obj/Debug/net7.0/TicCatToe.genruntimeconfig.cache
+/Users/diez/Documents/gitHub/C#_games/TicCatToe/TicCatToe/obj/Debug/net7.0/ref/TicCatToe.dll
