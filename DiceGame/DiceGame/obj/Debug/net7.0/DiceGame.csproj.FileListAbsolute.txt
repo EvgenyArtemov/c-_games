@@ -1,0 +1,15 @@
+/Users/diez/Documents/gitHub/DiceGame/DiceGame/bin/Debug/net7.0/DiceGame
+/Users/diez/Documents/gitHub/DiceGame/DiceGame/bin/Debug/net7.0/DiceGame.deps.json
+/Users/diez/Documents/gitHub/DiceGame/DiceGame/bin/Debug/net7.0/DiceGame.runtimeconfig.json
+/Users/diez/Documents/gitHub/DiceGame/DiceGame/bin/Debug/net7.0/DiceGame.dll
+/Users/diez/Documents/gitHub/DiceGame/DiceGame/bin/Debug/net7.0/DiceGame.pdb
+/Users/diez/Documents/gitHub/DiceGame/DiceGame/obj/Debug/net7.0/DiceGame.csproj.AssemblyReference.cache
+/Users/diez/Documents/gitHub/DiceGame/DiceGame/obj/Debug/net7.0/DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diez/Documents/gitHub/DiceGame/DiceGame/obj/Debug/net7.0/DiceGame.AssemblyInfoInputs.cache
+/Users/diez/Documents/gitHub/DiceGame/DiceGame/obj/Debug/net7.0/DiceGame.AssemblyInfo.cs
+/Users/diez/Documents/gitHub/DiceGame/DiceGame/obj/Debug/net7.0/DiceGame.csproj.CoreCompileInputs.cache
+/Users/diez/Documents/gitHub/DiceGame/DiceGame/obj/Debug/net7.0/DiceGame.dll
+/Users/diez/Documents/gitHub/DiceGame/DiceGame/obj/Debug/net7.0/refint/DiceGame.dll
+/Users/diez/Documents/gitHub/DiceGame/DiceGame/obj/Debug/net7.0/DiceGame.pdb
+/Users/diez/Documents/gitHub/DiceGame/DiceGame/obj/Debug/net7.0/DiceGame.genruntimeconfig.cache
+/Users/diez/Documents/gitHub/DiceGame/DiceGame/obj/Debug/net7.0/ref/DiceGame.dll
